@@ -7,7 +7,7 @@ This is an initial version.
 ![image](https://github.com/Lekha-PRIYA-BHAN/Safe-and-Ethical-Gen-AI/assets/167432155/21c85c16-7756-4cd3-b58c-e639b6cfae2b)
 
 
-[I]()n the above diagram a GenAI application only having the blue lines (labeled 1, 5, 6, 10) would have the highest frequency of unsafe and unethical responses. However as we introduce other spokes labeled (2 through 9) we expect to considerably reduce this frequency. The spoke labelled 0 corresponds to defining and executing test cases during the testing phas of the GenAI application to catch any unsafe responses. Those spokes that are circled (i.e., 2, 8, 9, and 0) are areas where Kyndryl should develop capabilities and experience to provide a differentiation. Note, the ordering of the spokes around the GenAI indicate the natural order in which the functionality represented by the spokes will be executed.
+[I]()n the above diagram a GenAI application only having the blue lines (labeled 1, 5, 6, 10) would have the highest frequency of unsafe and unethical responses. However as we introduce other spokes labeled (2 through 9) we expect to considerably reduce this frequency. The spoke labelled 0 corresponds to defining and executing test cases during the testing phas of the GenAI application to catch any unsafe responses. Those spokes that are circled (i.e., 2, 8, 9, and 0) are areas where Entity should develop capabilities and experience to provide a differentiation. Note, the ordering of the spokes around the GenAI indicate the natural order in which the functionality represented by the spokes will be executed.
 
 ## Prompt Validator
 
